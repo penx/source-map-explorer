@@ -29,7 +29,7 @@
     "convert-source-map": "^1.1.1",
     "docopt": "^0.6.2",
     "file-url": "^1.0.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "source-map": "^0.5.1",
     "temp": "^0.8.3",
     "underscore": "^1.8.3"
